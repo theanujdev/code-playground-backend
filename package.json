@@ -1,0 +1,32 @@
+{
+  "name": "code-playground-backend",
+  "version": "1.0.0",
+  "description": "Code playground backend",
+  "main": "./build/server.js",
+  "scripts": {
+    "start": "node build/server.js",
+    "build": "tsc -p .",
+    "dev": "nodemon src/server.ts"
+  },
+  "author": "Anuj",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.2",
+    "@types/cors": "^2.8.10",
+    "@types/express": "^4.17.12",
+    "@types/mongoose": "^5.11.97",
+    "@types/node": "^15.12.0",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.7",
+    "ts-node": "^10.0.0"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^5.12.13",
+    "socket.io": "^4.1.2",
+    "typescript": "^4.3.2"
+  }
+}

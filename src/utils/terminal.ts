@@ -1,6 +1,9 @@
 const terminal = (command: string): string => {
   let res = "";
   switch (command) {
+    case "ping":
+      res = "pong";
+      break;
     case "ls":
       res = "index.html style.css app.js";
       break;

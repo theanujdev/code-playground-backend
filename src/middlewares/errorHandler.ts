@@ -7,7 +7,7 @@ function errorHandler(
   next: NextFunction
 ) {
   if (process.env.NODE_ENV !== "production") {
-    if (error.e) console.log("Error :", error.e);
+    if (error.e) console.log("Error :", error.message, ">>", error.e);
   }
   const status = error.status || 500;
   const message = error.message || "Something went wrong";

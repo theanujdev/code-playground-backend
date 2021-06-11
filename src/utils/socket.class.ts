@@ -82,7 +82,7 @@ class Socketio {
         newCode.$unset["code." + fname] = "";
         newCode.$pull["editorState.files"] = filename;
         try {
-          const res = await User.updateOne(
+          await User.updateOne(
             {
               username,
             },

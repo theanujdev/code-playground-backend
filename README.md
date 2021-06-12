@@ -19,6 +19,7 @@ This project provides a real-time cloud-based code sync and editing and website 
 - Realtime cloud sync of code
 - Preview webpage
 - Built-in terminal with syntax-highlighting
+- Flexible and auto resizable components and clean user interface
 
 ## Run Locally
 

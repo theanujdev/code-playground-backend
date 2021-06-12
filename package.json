@@ -9,7 +9,7 @@
     "dev": "nodemon src/server.ts"
   },
   "author": "Anuj",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/cookie-parser": "^1.4.2",
     "@types/cors": "^2.8.10",

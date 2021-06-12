@@ -57,7 +57,7 @@ npm run dev
 
 > **Note:** Make sure to run **MongoDB** server in the background.
 
-You need to run [Code Playground Frontend](*https://github.com/ProdexOne/code-playground-frontend*) to use it.
+You need to run [Code Playground Frontend](https://github.com/ProdexOne/code-playground-frontend) to use it.
 
 ## Optimizations
 

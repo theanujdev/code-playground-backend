@@ -9,6 +9,7 @@ This project provides a real-time cloud-based code sync and editing and website 
 ## Tech Stack
 
 **Client:** React, Typescript, Monoco-editor, Socket.io-client, Xtermjs, React reflex
+
 **Server:** Node, Express, Typescript, Mongoose, Cookie-parser, Socketio
 
 ## Features
@@ -43,12 +44,7 @@ npm install
 
 - Create a new file `.env`. Copy all the content from `.env.example` and paste it into `.env`. Change the following environment variables in your `.env` file
 
-  `DB_URL`
-  `APP_PORT`
-
-  `COOKIE_SECRET`
-
-  `WEB_URL`
+  `DB_URL`, `APP_PORT`, `COOKIE_SECRET`, `WEB_URL`
 
 - Start the server
 

@@ -1,6 +1,6 @@
 # Code Playground (Backend)
 
-![Code Playground Demo](https://raw.githubusercontent.com/ProdexOne/code-playground-frontend/master/img/code-playground.gif)
+![Code Playground Demo](https://raw.githubusercontent.com/theanujdev/code-playground-frontend/master/img/code-playground.gif)
 
 ## Overview
 
@@ -27,7 +27,7 @@ This project provides a real-time cloud-based code sync and editing and website 
 - Clone the project
 
 ```bash
-git clone https://github.com/ProdexOne/code-playground-backend
+git clone https://github.com/theanujdev/code-playground-backend
 ```
 
 - Go to the project directory
@@ -54,7 +54,7 @@ npm run dev
 
 > **Note:** Make sure to run **MongoDB** server in the background.
 
-You need to run [Code Playground Frontend](https://github.com/ProdexOne/code-playground-frontend) to use it.
+You need to run [Code Playground Frontend](https://github.com/theanujdev/code-playground-frontend) to use it.
 
 ## Optimizations
 
@@ -62,15 +62,15 @@ Code is refactored and project structure is optimized for scalability. Routes, c
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/ProdexOne/code-playground-frontend/master/img/code-playground.png)
+![App Screenshot](https://raw.githubusercontent.com/theanujdev/code-playground-frontend/master/img/code-playground.png)
 
 ## Feedback
 
-If you have any feedback, please reach out at [@AnujS_IN](https://twitter.com/AnujS_IN)
+If you have any feedback, please reach out at [@theanujdev](https://twitter.com/theanujdev)
 
 ## Authors
 
-- [@ProdexOne](https://www.github.com/ProdexOne)
+- [@theanujdev](https://www.github.com/theanujdev)
 
 ## License
 
